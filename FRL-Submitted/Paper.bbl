@@ -1,0 +1,133 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ahn(2022)]{ahn2022}
+Yongkil Ahn.
+\newblock Asymmetric tail dependence in cryptocurrency markets: A model-free
+  approach.
+\newblock \emph{Finance Research Letters}, 47:\penalty0 102746, 2022.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/j.frl.2022.102746}.
+
+\bibitem[Ang and Chen(2002)]{ang2002asymmetric}
+Andrew Ang and Joseph Chen.
+\newblock Asymmetric correlations of equity portfolios.
+\newblock \emph{Journal of financial Economics}, 63\penalty0 (3):\penalty0
+  443--494, 2002.
+\newblock \doi{https://doi.org/10.1016/S0304-405X(02)00068-5}.
+
+\bibitem[Aslanidis et~al.(2019)Aslanidis, Bariviera, and
+  MartÃ­nez-IbaÃ±ez]{aslanidis2019}
+Nektarios Aslanidis, Aurelio~F. Bariviera, and Oscar MartÃ­nez-IbaÃ±ez.
+\newblock An analysis of cryptocurrencies conditional cross correlations.
+\newblock \emph{Finance Research Letters}, 31:\penalty0 130--137, 2019.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/j.frl.2019.04.019}.
+
+\bibitem[Bekiros et~al.(2021)Bekiros, Hedstrom, Jayasekera, Mishra, and
+  Uddin]{bekiros2021}
+Stelios Bekiros, Axel Hedstrom, Evgeniia Jayasekera, Tapas Mishra, and
+  Gazi~Salah Uddin.
+\newblock Correlated at the tail: Implications of asymmetric tail-dependence
+  across bitcoin markets.
+\newblock \emph{Computational Economics}, 58:\penalty0 1289â1299, 2021.
+\newblock \doi{https://doi.org/10.1007/s10614-020-10058-6}.
+
+\bibitem[Bouri et~al.(2020)Bouri, Lucey, and Roubaud]{Bouri2020}
+Elie Bouri, Brian Lucey, and David Roubaud.
+\newblock Cryptocurrencies and the downside risk in equity investments.
+\newblock \emph{Finance Research Letters}, 33:\penalty0 101211, 2020.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/j.frl.2019.06.009}.
+
+\bibitem[Feng et~al.(2018)Feng, Wang, and Zhang]{feng2018}
+Wenjun Feng, Yiming Wang, and Zhengjun Zhang.
+\newblock Can cryptocurrencies be a safe haven: a tail risk perspective
+  analysis.
+\newblock \emph{Applied Economics}, 50:\penalty0 4745--4762, 2018.
+\newblock \doi{https://doi.org/10.1080/00036846.2018.1466993}.
+
+\bibitem[Fung et~al.(2022)Fung, Jeong, and Pereira]{fung2021}
+Kennard Fung, Jiin Jeong, and Javier Pereira.
+\newblock More to cryptos than bitcoin: A garch modelling of heterogeneous
+  cryptocurrencies.
+\newblock \emph{Finance Research Letters}, 47:\penalty0 102544, 2022.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/j.frl.2021.102544}.
+
+\bibitem[Gkillas and Katsiampa(2018)]{Gkillas2018}
+Konstantinos Gkillas and Paraskevi Katsiampa.
+\newblock An application of extreme value theory to cryptocurrencies.
+\newblock \emph{Economics Letters}, 164:\penalty0 109--111, 2018.
+\newblock ISSN 0165-1765.
+\newblock \doi{https://doi.org/10.1016/j.econlet.2018.01.020}.
+
+\bibitem[Guesmi et~al.(2019)Guesmi, Saadi, Abid, and Ftiti]{guesmi2019}
+Khaled Guesmi, Samir Saadi, Ilyes Abid, and Zied Ftiti.
+\newblock Portfolio diversification with virtual currency: Evidence from
+  bitcoin.
+\newblock \emph{International Review of Financial Analysis}, 63:\penalty0
+  431--437, 2019.
+\newblock ISSN 1057-5219.
+\newblock \doi{https://doi.org/10.1016/j.irfa.2018.03.004}.
+
+\bibitem[Li et~al.(2022)Li, Shi, Xu, Xu, and Zhao]{li2022}
+Danyang Li, Yukun Shi, Liao Xu, Yahua Xu, and Yang Zhao.
+\newblock Dynamic asymmetric dependence and portfolio management in
+  cryptocurrency markets.
+\newblock \emph{Finance Research Letters}, 48:\penalty0 102829, 2022.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/j.frl.2022.102829}.
+
+\bibitem[Liu(2019)]{liu2019}
+Weiyi Liu.
+\newblock Portfolio diversification across cryptocurrencies.
+\newblock \emph{Finance Research Letters}, 29:\penalty0 200--205, 2019.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/j.frl.2018.07.010}.
+
+\bibitem[Longin and Solnik(2001)]{longin2001}
+FranÃ§ois Longin and Bruno Solnik.
+\newblock Extreme correlation of international equity markets.
+\newblock \emph{The Journal of Finance}, 56\penalty0 (2):\penalty0 649--676,
+  2001.
+\newblock \doi{https://doi.org/10.1111/0022-1082.00340}.
+
+\bibitem[Malek et~al.(2023)Malek, Nguyen, Sensoy, and Tran]{malek2023}
+Jiri Malek, Duc~Khuong Nguyen, Ahmet Sensoy, and Quang~Van Tran.
+\newblock Modeling dynamic var and cvar of cryptocurrency returns with
+  alpha-stable innovations.
+\newblock \emph{Finance Research Letters}, 55:\penalty0 103817, 2023.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/j.frl.2023.103817}.
+
+\bibitem[Sleire et~al.(2022)Sleire, St{\o}ve, Otneim, Berentsen, Tj{\o}stheim,
+  and Haugen]{sleire2022portfolio}
+Anders~D Sleire, B{\aa}rd St{\o}ve, H{\aa}kon Otneim, Geir~Drage Berentsen, Dag
+  Tj{\o}stheim, and Sverre~Hauso Haugen.
+\newblock Portfolio allocation under asymmetric dependence in asset returns
+  using local gaussian correlations.
+\newblock \emph{Finance Research Letters}, 46:\penalty0 102475, 2022.
+
+\bibitem[Wang et~al.(2022)Wang, Wang, Yin, and Ji]{wang2022}
+Hao Wang, Xiaoqian Wang, Siyuan Yin, and Hao Ji.
+\newblock The asymmetric contagion effect between stock market and
+  cryptocurrency market.
+\newblock \emph{Finance Research Letters}, 46:\penalty0 102345, 2022.
+\newblock ISSN 1544-6123.
+\newblock \doi{https://doi.org/10.1016/j.frl.2021.102345}.
+
+\bibitem[Wen et~al.(2022)Wen, Tong, and Ren]{wen2022}
+Fenghua Wen, Xi~Tong, and Xiaohang Ren.
+\newblock Gold or bitcoin, which is the safe haven during the covid-19
+  pandemic?
+\newblock \emph{International Review of Financial Analysis}, 81:\penalty0
+  102121, 2022.
+\newblock ISSN 1057-5219.
+\newblock \doi{https://doi.org/10.1016/j.irfa.2022.102121}.
+
+\end{thebibliography}
